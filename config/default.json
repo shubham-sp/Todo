@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://todoDemo:todoApp@red-zone.f2dog.mongodb.net/todoDemo?retryWrites=true&w=majority",
+  "jwtToken": "YouCanNeverGuess"
+}
